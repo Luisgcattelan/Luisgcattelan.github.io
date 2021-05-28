@@ -4,7 +4,7 @@ collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2014-03-01-talk-3
 venue: "Encontro Nacional de História da F"
-date: 2014-03-01
+date: 2019-09
 location: "São Paulo, SP"
 ---
 
