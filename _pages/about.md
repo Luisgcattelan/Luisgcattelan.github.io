@@ -17,4 +17,4 @@ I have just won an Erasmus+ scholarship to study next semester (September to Feb
 
 Personal Interests include: cycling, running, trekking and reading.
 
-You can access my Lattes here and CV here. 
+You can access my Lattes [here](http://lattes.cnpq.br/9866656158650294) and CV [here](https://luisgcattelan.github.io/files/CV.pdf). 
