@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi! My name is Luís Gustavo Prates Cattelan. I'm in my senior year of bachelor's degree in Physics. I’m interested in Environmental Science and its transdisciplinary branches. Currently, I am an undergraduate research intern in the field of Earth System Science, focused on understanding tropical ecosystems resilience.
 
-Besides the research, I worked in outreach and science communication projects. I also did some research in History of Physics.  I founded with colleagues the ‘Grupo de Física Computacional’ (GFC) at UFRGS. The objective of this collective is to strengthen a community of undergraduate students interested in Computational Physics.
+Besides the research, I worked in outreach and science communication projects. I also did [some research](https://luisgcattelan.github.io/talks/2014-03-01-talk-3) in History of Physics.  I founded with colleagues the ‘Grupo de Física Computacional’ (GFC) at UFRGS. The objective of this collective is to strengthen a community of undergraduate students interested in Computational Physics.
 
  Regarding my future, after I reach my Bachelor’s Degree, I intend to continue to research, perhaps in a post-graduate program. My goal is to use concepts from Statistical Physics and Data Science to help understand how our world as a whole works. 
 
